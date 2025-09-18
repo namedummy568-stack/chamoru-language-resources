@@ -5,3 +5,6 @@
 *   **Guåhu** - I, me
 *   **Hågu** - You
 *   **Tåsi** - Ocean
+*   **Guåfi** - Fire
+*   **Suni** - Turmeric
+*   **Peskadot** - Fisherman
